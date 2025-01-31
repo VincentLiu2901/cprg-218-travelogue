@@ -2,7 +2,13 @@ img {
     width: 200%;
     max-width: 400px;
     height: auto;
+    padding: 5%;
   }
+
+main{
+    
+
+}
 
 #Parksville{
     flex: 2;
@@ -17,4 +23,10 @@ img {
 #Victoria{
     flex: 2;
     background-color: rgb(199, 199, 199);
+}
+
+header{
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
