@@ -1,15 +1,20 @@
-*{
-    box-sizing: border-box;
-    
-
-}
-
-header{
-
-}
-
 img {
     width: 200%;
     max-width: 400px;
     height: auto;
   }
+
+#Parksville{
+    flex: 2;
+    background-color: rgb(199, 199, 199);
+}
+
+#Vancouver{
+    flex: 2;
+    background-color: rgb(199, 199, 199);
+}
+
+#Victoria{
+    flex: 2;
+    background-color: rgb(199, 199, 199);
+}
