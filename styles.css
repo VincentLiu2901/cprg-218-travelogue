@@ -10,23 +10,38 @@ main{
 
 }
 
-#Parksville{
-    flex: 2;
-    background-color: rgb(199, 199, 199);
-}
+h2 {
+    padding-top: 30px;
+    margin-left: 40px;
+  }
 
-#Vancouver{
-    flex: 2;
-    background-color: rgb(199, 199, 199);
-}
-
-#Victoria{
-    flex: 2;
-    background-color: rgb(199, 199, 199);
-}
-
-header{
+  header{
     align-items: center;
     display: flex;
     justify-content: center;
 }
+
+#Parksville{
+    flex: 2;
+    background-color: rgb(229, 231, 235);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  
+}
+
+#Vancouver{
+    flex: 2;
+    background-color: rgb(229, 231, 235);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+
+}
+
+#Victoria{
+    flex: 2;
+    background-color: rgb(229, 231, 235);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+
+}
+
